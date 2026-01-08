@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@remix-run/express": "^2.13.1",
-    "@remix-run/node": "^2.13.1",
+    "@remix-run/node": "^2.17.2",
     "@remix-run/react": "^2.13.1",
     "@remix-run/server-runtime": "^2.13.1",
     "@shopify/hydrogen": "2024.10.0",
